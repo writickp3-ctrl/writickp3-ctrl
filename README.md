@@ -1,6 +1,6 @@
 Hi, I'm Writick 👋
 
-MTech CSE @ Thapar Institute of Engineering & Technology| GATE 2025 Qualified  
+M.E CSE @ Thapar Institute of Engineering & Technology| GATE 2025 Qualified  
 Former Project Intern at TCS iON  
 
 💻 Technical Skills  
