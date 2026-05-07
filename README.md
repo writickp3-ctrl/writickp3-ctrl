@@ -143,6 +143,7 @@ Built a **production-quality NLP backend** for grammatical error detection.
 ✅  Top of Batch — M.E. CSE 1st Semester, TIET (CGPA 9.72 / 10)
 ✅  Production backend delivered in 125 hours @ TCS iON
 ✅  150+ DSA problems solved (LeetCode · GeeksForGeeks)
+✅  AWS Academy Graduate — Cloud Foundations Training Badge (20hrs) · May 2026
 ✅  AWS Cloud Assessment Certification — LearnTube.ai
 ✅  Machine Learning with Python — Globsyn Business School
 ```
