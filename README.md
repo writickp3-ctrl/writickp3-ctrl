@@ -1,14 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=header&text=Writick%20Parui&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:1f6feb&height=130&section=header&text=Writick%20Parui&fontSize=46&fontColor=ffffff&fontAlignY=68&animation=fadeIn&desc=Backend%20Engineer%20%C2%B7%20Systems%20Thinker%20%C2%B7%20ML%20Builder&descSize=16&descAlignY=85&descColor=8b949e" width="100%"/>
 
-### M.E. CSE · TIET Patiala · CGPA 9.72 · GATE 2025 Qualified
-
-**Backend Engineer** who builds things that run in production — not just demos.
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/writick-parui099)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/writickp3-ctrl)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:writick1999@gmail.com)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/go/eeK72pgL)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=writickp3-ctrl&color=1f6feb&style=flat-square&label=Profile+Views)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Internship%20%7C%20SDE%20%7C%20Backend%20%7C%20AI%20Eng-2ea44f?style=flat-square)
 
 </div>
 
@@ -18,13 +22,14 @@
 
 ```python
 writick = {
-    "role"       : "Backend & Data Pipeline Engineer",
-    "degree"     : "M.E. CSE @ TIET Patiala (CGPA: 9.72 / 10 — Top of Batch)",
-    "gate"       : "GATE 2025 Qualified — CS & IT",
-    "internship" : "TCS iON Kolkata — Production NLP Backend (125hr delivery)",
-    "core"       : ["System Design", "REST APIs", "Data Pipelines", "ML Backends"],
-    "strengths"  : ["DSA (C++)", "OS", "DBMS", "Computer Networks", "OOP"],
-    "currently"  : "Seeking SDE / Backend / AI Eng Internship Opportunities"
+    "role"        : "Backend & Data Pipeline Engineer",
+    "degree"      : "M.E. CSE @ TIET Patiala (CGPA: 9.72 / 10 — Top of Batch)",
+    "gate"        : "GATE 2025 Qualified — CS & IT",
+    "internship"  : "TCS iON Kolkata — Production NLP Backend (125hr delivery)",
+    "core"        : ["System Design", "REST APIs", "Data Pipelines", "ML Backends"],
+    "strengths"   : ["DSA (C++)", "OS", "DBMS", "Computer Networks", "OOP"],
+    "cloud"       : "AWS Academy Cloud Foundations Trained · Credly Verified",
+    "currently"   : "Seeking SDE / Backend / AI Eng Internship Opportunities"
 }
 ```
 
@@ -36,23 +41,40 @@ writick = {
 
 <div align="center">
 
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Frameworks & Backend**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**DevOps & Cloud**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**ML / Data / Visualization**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189B00?style=flat-square&logo=xgboost&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-Explainability-6e40c9?style=flat-square)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
@@ -154,14 +176,14 @@ Built a **production-quality NLP backend** for grammatical error detection.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=writickp3-ctrl&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=writickp3-ctrl&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=writickp3-ctrl&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=writickp3-ctrl&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=320" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=writickp3-ctrl&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=writickp3-ctrl&theme=github_dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
@@ -169,7 +191,7 @@ Built a **production-quality NLP backend** for grammatical error detection.
 
 ## 📬 Let's Talk
 
-I'm actively looking for **SDE / Backend / AI Engineering internship** opportunities — on-campus or off-campus.
+> Actively seeking **SDE / Backend / AI Engineering internship** opportunities — on-campus or off-campus. Response time: usually within 24 hours.
 
 <div align="center">
 
@@ -179,6 +201,7 @@ I'm actively looking for **SDE / Backend / AI Engineering internship** opportuni
 | 📱 Phone | +91 8582805377 |
 | 💼 LinkedIn | [writick-parui099](https://www.linkedin.com/in/writick-parui099) |
 | 💻 GitHub | [writickp3-ctrl](https://github.com/writickp3-ctrl) |
+| 🏅 AWS Badge | [Credly Verified](https://www.credly.com/go/eeK72pgL) |
 
 </div>
 
@@ -188,6 +211,6 @@ I'm actively looking for **SDE / Backend / AI Engineering internship** opportuni
 
 *"Build systems that survive production. Write code that survives review."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:0d2137,100:0d1117&height=90&section=footer" width="100%"/>
 
 </div>
